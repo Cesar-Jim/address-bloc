@@ -11,5 +11,8 @@
     "book"
   ],
   "author": "Cesar Jimenez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
 }
