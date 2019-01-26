@@ -4,7 +4,7 @@
   "description": "An application to model an address book in Node",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "keywords": [
     "address",
@@ -14,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.2.1"
+  },
+  "devDependencies": {
+    "jasmine": "^3.3.1"
   }
 }
